@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O **BotMine** é um bot para Discord projetado para ajudar no gerenciamento de servidores caseiros de Minecraft. Com ele, você pode iniciar, parar, e monitorar o status do servidor diretamente do seu servidor no Discord.
+O **BotMine** é um bot para Discord projetado para ajudar no gerenciamento de servidores caseiros de Minecraft. Com ele, você pode iniciar, parar e monitorar o status do servidor diretamente do seu servidor no Discord.
 
 ## Funcionalidades
 
@@ -19,7 +19,7 @@ O **BotMine** é um bot para Discord projetado para ajudar no gerenciamento de s
 - npm;
 - Uma conta no Discord com permissão para gerenciar bots;
 - Bot adicionado ao seu servidor (Caso não saiba fazê-lo e convidá-lo: [https://discordjs.guide/preparations/setting-up-a-bot-application.html])
-- Um servidor de Minecraft configurado.
+- Um servidor de Minecraft configurado na porta 25565.
 
 ### Passos
 
