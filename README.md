@@ -46,7 +46,7 @@ O **BotMine** é um bot para Discord projetado para ajudar no gerenciamento de s
 
 4. Execute o arquivo registrarComandos.js. Ele irá adicionar os comandos por barra descritos no arquivo ao seu bot:
     ```sh
-        node src/registrarComandos.js
+    node src/registrarComandos.js
     ```
 
 5. Inicie o bot:
